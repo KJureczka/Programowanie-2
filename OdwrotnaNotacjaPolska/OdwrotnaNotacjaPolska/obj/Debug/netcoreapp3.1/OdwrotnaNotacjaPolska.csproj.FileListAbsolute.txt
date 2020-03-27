@@ -1,0 +1,11 @@
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.exe
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.deps.json
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.runtimeconfig.json
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.runtimeconfig.dev.json
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.dll
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\bin\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.pdb
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\obj\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.csprojAssemblyReference.cache
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\obj\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.AssemblyInfoInputs.cache
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\obj\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.AssemblyInfo.cs
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\obj\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.dll
+C:\Users\jurec\Programowanie-2\OdwrotnaNotacjaPolska\OdwrotnaNotacjaPolska\obj\Debug\netcoreapp3.1\OdwrotnaNotacjaPolska.pdb
